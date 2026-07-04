@@ -22,4 +22,5 @@ To ensure compliance with FTC(US), GDPR(UK/EU), and LGPD(BR) All personal detail
 
 ***
 
-# The Rest is Under construction at the current moment. Please bear with me while I upload each project I have done and write descriptions with how I used the data.
+# The rest of this page is currently under construction at the moment.
+## Please bear with me while I write descriptions for the projects that I decide are worth uploading 
