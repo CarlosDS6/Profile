@@ -1,8 +1,8 @@
-# 🗺 Carlos's Data Portfolio
+# Carlos's Data Portfolio
 
 Welcome to my data portfolio! In here, I will document a summary of my various projects in the data field. 
 
-## 📚 Table of Contents
+## Table of Contents
 - [Disclaimer](#disclaimer)
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
