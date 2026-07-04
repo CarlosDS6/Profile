@@ -4,11 +4,7 @@ Welcome to my data portfolio! In here, I will document a summary of my various p
 
 ## Table of Contents
 - [Disclaimer](#disclaimer)
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Power BI](#power-bi)
+
 
 
 # Disclaimer
