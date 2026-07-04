@@ -14,7 +14,7 @@ Welcome to my data portfolio! In here, I will document a summary of my various p
     1: Data that was provided to me during my online course with ITonlineLearning. 
     2: Data generated via websites such as mockaroo.com with the intention on mimicking real data.
     3: Public accessible data that was accessed via their respective government agencies or council authorities. 
-    4: Retrieved from (Kaggle)[https://www.kaggle.com/datasets]
+    4: Retrieved from [Kaggle][https://www.kaggle.com/datasets]
 
 In regards to any data provided by a governing bodies or Kaggle, All data sets have been properly checked to ensure that no personal details can be found within these datasets. This is to ensure that these projects are in compliance with [FTC(USA)](https://www.ftc.gov/business-guidance/privacy-security/data-security), [GDPR(UK)](https://www.legislation.gov.uk/eur/2016/679/contents), [GDPR(EU)](https://gdpr-info.eu/), and [LGPD(BR)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) regulations. As a result, all data used will be linked respectively in the project's readme.md file  
 
