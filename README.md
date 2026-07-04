@@ -18,7 +18,7 @@ Welcome to my data portfolio! In here, I will document a summary of my various p
 
 In regards to any data provided by a governing bodies or Kaggle, All data sets have been properly checked to ensure that no personal details can be found within these datasets. This is to ensure that these projects are in compliance with [FTC(USA)](https://www.ftc.gov/business-guidance/privacy-security/data-security), [GDPR(UK)](https://www.legislation.gov.uk/eur/2016/679/contents), [GDPR(EU)](https://gdpr-info.eu/), and [LGPD(BR)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) regulations. As a result, all data used will be linked respectively in the project's readme.md file  
 
-To ensure compliance with FTC(US), GDPR(UK/EU), and LGPD(BR) All personal details do not reflect actual living people. the data used is intended to replicate how a real dataset would look in order to make these projects. Any data that was data will be provided in the project`s repository.
+To ensure compliance with data privacy laws in the United States, European Union, United Kingdom, and Brazil All personal details do not reflect actual living people. the data used is intended to replicate how a real dataset would look in order to make these projects. Any data that was data will be provided in the project`s repository.
 
 ***
 
