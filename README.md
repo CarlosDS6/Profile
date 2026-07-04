@@ -11,7 +11,7 @@ Welcome to my data portfolio! In here, I will document a summary of my various p
 
  All data used in these projects is not real data. All data used in these projects is 
  either one of the following. 
- - Data that was provided to me during my online course with ITonlineLearning.
+ - Data that was provided to me during my online course with [ITonlineLearning](https://www.itonlinelearning.com/).
  - Data generated via websites such as [Mockaroo](https://www.mockaroo.com/) 
  - Public accessible data that was accessed via their respective government agencies or council authorities.
  - Retrieved from [Kaggle](https://www.kaggle.com/datasets)
